@@ -1,0 +1,17 @@
+spring:
+    profile: dev
+
+devguide: 
+    greeting: "개발 서버에 오신걸 환영합니다."
+
+spring:
+    profile: stg
+
+devguide: 
+    greeting: "스테이징 서버에 오신걸 환영합니다."
+
+spring:
+    profile: prod
+
+devguide: 
+    greeting: "상품 서버에 오신걸 환영합니다."
