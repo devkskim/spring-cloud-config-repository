@@ -10,4 +10,4 @@ greeting: "스테이징 서버에 오신걸 환영합니다."
 ---
 spring:
     profile: local
-greeting: "상품 서버에 오신걸 환영합니다."
+greeting: "서버에 오신걸 환영합니다."
