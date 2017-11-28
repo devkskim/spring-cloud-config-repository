@@ -2,12 +2,12 @@ greeting: "안녕하세요"
 
 spring:
     profile: dev
-    greeting: "개발 서버에 오신걸 환영합니다."
+greeting: "개발 서버에 오신걸 환영합니다."
 
 spring:
     profile: stg
-    greeting: "스테이징 서버에 오신걸 환영합니다."
+greeting: "스테이징 서버에 오신걸 환영합니다."
 
 spring:
     profile: local
-    greeting: "상품 서버에 오신걸 환영합니다."
+greeting: "상품 서버에 오신걸 환영합니다."
